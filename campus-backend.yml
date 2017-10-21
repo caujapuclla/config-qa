@@ -7,12 +7,12 @@ spring:
     sender: campus@joedayz.pe
     username: campus@joedayz.pe
     password: ArrozConAngular2
-    fromIP: campus.joedayz.pe
+    fromIP: localhost
 
   datasource:
     url: jdbc:mysql://localhost/api
     username: root
-    password: joedayz
+    password: root
     testOnBorrow: true
     removeAbandonedTimeout: 1800
     removeAbandoned: true
