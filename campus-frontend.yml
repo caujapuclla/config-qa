@@ -6,3 +6,6 @@ spring:
 backend:
   server: localhost
   port: 8999
+
+server:
+  port: 8085
